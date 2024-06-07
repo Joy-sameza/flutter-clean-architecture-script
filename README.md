@@ -24,6 +24,7 @@ This repository contains a Windows shell script to create a folder structure for
 
 If you run the script with the path `C:\Projects\MyFlutterApp` and features `authentication` and `user_profile`, the following folder structure will be created:
 
+```txt
 C:\Projects\MyFlutterApp
 └── lib
 ├── core
@@ -88,6 +89,7 @@ C:\Projects\MyFlutterApp
 │ │ └── desc.txt
 ├── injection_container.dart
 └── main.dart
+```
 
 ## Notes
 
