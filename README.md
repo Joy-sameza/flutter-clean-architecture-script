@@ -94,12 +94,12 @@ C:\Projects\MyFlutterApp
 ## Notes
 
 - **Add to PATH:** To easily call the script from any terminal, you can add the directory containing the script to your system's PATH environment variable. Follow these steps:
-  1. Right-click on 'This PC' or 'Computer' on the desktop or in File Explorer.
-  2. Select 'Properties'.
-  3. Click 'Advanced system settings'.
-  4. Click the 'Environment Variables' button.
-  5. In the 'System variables' section, find the `Path` variable and select it. Click 'Edit'.
-  6. Click 'New' and add the path to the directory containing your script. Click 'OK' to save.
+  1. Right-click on `'This PC'` or `'Computer'` on the desktop or in File Explorer.
+  2. Select `'Properties'`.
+  3. Click `'Advanced system settings'`.
+  4. Click the `'Environment Variables'` button.
+  5. In the `'System variables'` section, find the `Path` variable and select it. Click `'Edit'`.
+  6. Click `'New'` and add the path to the directory containing your script. Click `'OK'` to save.
   7. Open a new command prompt or PowerShell window to use the updated PATH.
 
 - **Move to System32:** Alternatively, you can move the script to the `System32` folder, which is already in the PATH. Be cautious with this approach as it requires administrative privileges and can potentially affect system files:
